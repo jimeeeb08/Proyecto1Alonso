@@ -22,7 +22,7 @@ public:
     ~Instructor();
 // Funciones set
     void setCedula(string*);
-    void setNombre(string*);
+    void setNombre(string*); // nombre cliente
     void setTelefono(string*);
     void setCorreo(string*);
     void setFechaNacimiento(string*);

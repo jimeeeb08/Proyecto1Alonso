@@ -36,6 +36,6 @@ public:
     Instructor* getInstructor();
     Cliente** getMatriculados();
 // Funciones accionales
-    bool matricular(Cliente*);
+    bool matricular(Cliente*); // sirve para matricular un cliente
     int cuposDisponibles();
 };
